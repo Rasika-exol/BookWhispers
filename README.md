@@ -1,2 +1,2 @@
 # BookWhispers
-Ecommerce website for Stenciled edge books by me
+Ecommerce website for beautiful Stenciled edges books by me
